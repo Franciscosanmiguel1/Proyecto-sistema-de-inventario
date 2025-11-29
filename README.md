@@ -89,9 +89,14 @@ Backend:
 
 Configuración inicial: Servidor corriendo y base de datos database.json creada.
 
+**Integrantes:**
+
+Francisco Simón Sanmiguel Royo.
+Integrante 1.
+Integrante 2.
 
 **Autor**
 
-Francisco Simón Sanmiguel. 
+Francisco Simón Sanmiguel Royo. 
 
 _Actividad realizada por cuenta propia, simulando un grupo colaborativo._
